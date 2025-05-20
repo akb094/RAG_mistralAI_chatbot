@@ -1,0 +1,35 @@
+# Ignore Python bytecode and cache
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Ignore virtual environment
+venv/
+
+# Ignore environment/config files
+.env
+*.env
+
+# Ignore notebook checkpoints
+.ipynb_checkpoints/
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore log files
+*.log
+
+# Ignore output files
+*.xlsx
+rag_chatbot_responses.xlsx
+
+# Ignore Streamlit temp files
+.streamlit/
+
+# VSCode settings (optional)
+.vscode/

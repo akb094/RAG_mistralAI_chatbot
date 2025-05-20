@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_community
+mistralai==0.4.2
+tqdm
+pandas
+faiss-cpu
+sentence-transformers
